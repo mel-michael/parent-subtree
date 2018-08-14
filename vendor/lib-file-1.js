@@ -1,4 +1,4 @@
-var libe = {
+var lib = {
   we,
   will,
   make,
