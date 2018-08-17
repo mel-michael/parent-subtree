@@ -1,0 +1,12 @@
+{
+  "name": "parent-subtree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mel-michael/parent-subtree.git",
+  "author": "Mel Michael <mel.michael@andela.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
